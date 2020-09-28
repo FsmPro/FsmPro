@@ -2,7 +2,7 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "1.0.1",
+      "latest-version": "1.0.4",
       "download-url": "https://github.com/FsmPro/FsmPro/releases/download/1.0.1/FsmProInstaller.exe",
       "changelog": "Extended beta period till end of the year 2020. Added switch for Autosave and minor bug fixes ",
       "mandatory": true
