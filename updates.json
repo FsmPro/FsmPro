@@ -2,9 +2,9 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "1.0.1",
+      "latest-version": "1.0.2",
       "download-url": "https://fsmpro.io/downloads/FsmProInstaller.exe",
-      "changelog": "Extended beta period till end of the year 2020. Added switch for Autosave and minor bug fixes ",
+      "changelog": "Added support for Shortcuts, Bug-Fixes and Fit to window feature",
       "mandatory": true
     },
     "osx": {
@@ -16,9 +16,9 @@
     },
     "linux": {
       "open-url": "",
-      "latest-version": "1.0.1",
-      "download-url": "https://fsmpro.io/downloads/FsmProInstaller.run",
-      "changelog": "Initial release for Linux distros",
+      "latest-version": "1.0.2",
+      "download-url": "https://fsmpro.io/downloads/FsmPro.deb",
+      "changelog": "IAdded support for Shortcuts, Bug-Fixes and Fit to window feature",
       "mandatory": true
     },
     "ios": {
