@@ -18,7 +18,7 @@
       "open-url": "",
       "latest-version": "1.0.2",
       "download-url": "https://fsmpro.io/downloads/FsmPro.deb",
-      "changelog": "IAdded support for Shortcuts, Bug-Fixes and Fit to window feature",
+      "changelog": "Added support for Shortcuts, Bug-Fixes and Fit to window feature",
       "mandatory": true
     },
     "ios": {
